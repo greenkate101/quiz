@@ -16,7 +16,7 @@ var myQuestions = [
 	},
 	{
 		text: 'What does static mean?',
-		answer: 'unchanging'
+		answer: 'Unchanging'
 	},
 	{
 		text: 'What is the command to exit the terminal?',
@@ -32,7 +32,7 @@ var myQuestions = [
 	},
 	{
 		text: 'What type of operator is (6 + x)?',
-		answer: 'binary operator'
+		answer: 'Binary Operator'
 	}, 
 	{
 		text: 'What is the not operator?',
@@ -57,6 +57,10 @@ var myQuestions = [
 	{
 		text: 'In CSS what surronds the content area of an item?',
 		answer: 'Padding'
+	},
+	{
+		text: 'What surronds the padding?',
+		answer: 'Border'
 	},
 	{
 		text: 'What does Eric say?',
